@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "origins:fire_immunity",
+        "origins:elytra",
+        "origins:throw_ender_pearl",
+        "origins:fresh_air"
+    ],
+    "icon": "iceandfire:dragonsteel_fire_ingot",
+    "order": 3,
+    "impact": 1,
+    "name": "Blacksmith",
+    "description": "You're a skilled craftsman and blacksmith. You are responsible for gathering materials for weapons and armor, and you must provide backup equipment during expeditions. Mining is your responsibility. However, you can request that fighters bring you scales and blood for your creations."
+}

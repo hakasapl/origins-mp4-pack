@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "origins:fire_immunity",
+        "origins:elytra",
+        "origins:throw_ender_pearl",
+        "origins:fresh_air"
+    ],
+    "icon": "camera:camera",
+    "order": 4,
+    "impact": 1,
+    "name": "Cameraman",
+    "description": "The cameraman spawns with a camera even after death. They are responsible for documenting the adventures of the group. They need to do their best to stay away from fights as they are feeble and cowardly beings - think of Cameron as an example."
+}

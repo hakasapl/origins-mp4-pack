@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "origins:fire_immunity",
+        "origins:elytra",
+        "origins:throw_ender_pearl",
+        "origins:fresh_air"
+    ],
+    "icon": "iceandfire:dragonarmor_silver_head",
+    "order": 1,
+    "impact": 1,
+    "name": "Dragonborn",
+    "description": "You were born for a reason - to slay dragons and take their soul. You are naturally gifted at fighting dragons"
+}

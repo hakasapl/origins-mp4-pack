@@ -1,0 +1,15 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:attacker",
+        "entity_condition": {
+            "type": "origins:entity_type",
+            "entity_type": "iceandfire:dragon"
+        }
+    },
+    "modifier": {
+        "name": "Dragons are naturally less interested in you and you therefore take less damage from them.",
+        "operation": "addition",
+        "value": -10
+    }
+}

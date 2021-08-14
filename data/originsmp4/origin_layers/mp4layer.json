@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "order": 10,
+    "enabled": true,
+    "origins": [
+        "originsmp4:cameraman"
+    ],
+    "name": "Choose your role"
+}

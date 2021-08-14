@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "origins:fire_immunity",
+        "origins:elytra",
+        "origins:throw_ender_pearl",
+        "origins:fresh_air"
+    ],
+    "icon": "iceandfire:bestiary",
+    "order": 2,
+    "impact": 1,
+    "name": "Scholar",
+    "description": "You're a bookworm. You are constantly researching details about the creatures in this strange world. It would be nice if you hosted a library."
+}
