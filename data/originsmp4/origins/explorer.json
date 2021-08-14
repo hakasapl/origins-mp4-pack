@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "origins:fire_immunity",
+        "origins:elytra",
+        "origins:throw_ender_pearl",
+        "origins:fresh_air"
+    ],
+    "icon": "minecraft:cornflower",
+    "order": 7,
+    "impact": 1,
+    "name": "Explorer",
+    "description": "You spawn with an atlas. You are responsible for navigating and keeping track of already explored regions of this world. You should be taking the iniative with mapping out unknown areas and inform the rest of the team."
+}

@@ -1,9 +1,7 @@
 {
     "powers": [
-        "origins:fire_immunity",
-        "origins:elytra",
-        "origins:throw_ender_pearl",
-        "origins:fresh_air"
+        "originsmp4:camera_tank",
+        "originsmp4:equip_camera"
     ],
     "icon": "camera:camera",
     "order": 4,

@@ -1,0 +1,11 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "camera:camera"
+        }
+    ],
+    "recurrent": true,
+    "name": "Photographer",
+    "description": "You spawn with a camera even if you die."
+}

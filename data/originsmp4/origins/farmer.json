@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "origins:fire_immunity",
+        "origins:elytra",
+        "origins:throw_ender_pearl",
+        "origins:fresh_air"
+    ],
+    "icon": "minecraft:wheat",
+    "order": 6,
+    "impact": 1,
+    "name": "Farmer",
+    "description": "You need to provide food and water to the team by any means necessary. Setting up a farm is a requirement, and animal pens would be nice."
+}
