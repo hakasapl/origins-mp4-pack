@@ -3,8 +3,8 @@
     "order": 10,
     "enabled": true,
     "origins": [
-        "originsmp4:dragonborn",
-        "originsmp4:cameraman"
+        "myrefall:dragonborn",
+        "myrefall:cameraman"
     ],
     "name": "Choose your role"
 }

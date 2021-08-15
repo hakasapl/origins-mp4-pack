@@ -1,8 +1,9 @@
 {
     "powers": [
-        "originsmp4:camera_tank",
-        "originsmp4:equip_camera",
-        "originsmp4:no_use_dragonseeker"
+        "myrefall:camera_tank",
+        "myrefall:equip_camera",
+        "myrefall:no_use_dragonseeker",
+        "myrefall:camera_speed"
     ],
     "icon": "camera:camera",
     "order": 4,

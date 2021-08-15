@@ -3,6 +3,10 @@
     "stacks": [
         {
             "item": "camera:camera"
+        },
+        {
+            "item": "minecraft:paper",
+            "amount": 16
         }
     ],
     "recurrent": true,
