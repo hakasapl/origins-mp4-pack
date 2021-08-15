@@ -1,9 +1,6 @@
 {
     "powers": [
-        "origins:fire_immunity",
-        "origins:elytra",
-        "origins:throw_ender_pearl",
-        "origins:fresh_air"
+        "origins:recipe_dragonborn"
     ],
     "icon": "iceandfire:dragonarmor_silver_head",
     "order": 1,

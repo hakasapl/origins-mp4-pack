@@ -1,0 +1,23 @@
+{
+    "type": "origins:recipe",
+    "recipe": {
+        "id": "origins:master_of_webs/web_crafting",
+        "type": "minecraft:crafting_shaped",
+        "pattern":
+        [
+            " S",
+            "T "
+        ],
+        "key": {
+            "S": {
+                "item": "iceandfire:dragon_skulls"
+            },
+            "T": {
+                "item": "forge:stick"
+            }
+        },
+        "result": {
+            "item": "dragonseeker:dragonseeker"
+        }
+    }
+}
