@@ -3,8 +3,16 @@
     "order": 10,
     "enabled": true,
     "origins": [
+        "myrefall:blacksmith",
+        "myrefall:captain",
         "myrefall:dragonborn",
-        "myrefall:cameraman"
+        "myrefall:farmer",
+        "myrefall:knight",
+        "myrefall:miner",
+        "myrefall:ranger",
+        "myrefall:scholar",
+        "myrefall:tinkerer",
+        "myrefall:wiccan"
     ],
     "name": "Choose your role"
 }

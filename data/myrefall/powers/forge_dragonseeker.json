@@ -1,23 +1,25 @@
 {
-    "type": "origins:recipe",
-    "recipe": {
-        "id": "origins:master_of_webs/web_crafting",
-        "type": "minecraft:crafting_shaped",
-        "pattern":
-        [
-            " S",
-            "T "
-        ],
-        "key": {
-            "S": {
-                "item": "iceandfire:dragon_skulls"
-            },
-            "T": {
-                "item": "forge:stick"
-            }
-        },
-        "result": {
-            "item": "dragonseeker:dragonseeker"
-        }
+  "type": "origins:recipe",
+  "recipe": {
+    "type": "minecraft:crafting_shaped",
+    "id": "myrefall:dragonseeker",
+    "pattern": [
+        "  S",
+        " # ",
+        "#  "
+    ],
+    "key": {
+      "S": {
+        "tag": "iceandfire:dragon_skulls"
+      },
+      "#": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "dragonseeker:dragonseeker"
     }
+  },
+  "name": "Forge Dragonseeker",
+  "description": "You can forge a special artifact that only the dragonborn can make use of"
 }

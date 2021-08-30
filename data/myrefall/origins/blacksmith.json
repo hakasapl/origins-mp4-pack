@@ -1,9 +1,6 @@
 {
     "powers": [
-        "origins:fire_immunity",
-        "origins:elytra",
-        "origins:throw_ender_pearl",
-        "origins:fresh_air"
+        "myrefall:forge_dragonseeker"
     ],
     "icon": "iceandfire:dragonsteel_fire_ingot",
     "order": 3,
